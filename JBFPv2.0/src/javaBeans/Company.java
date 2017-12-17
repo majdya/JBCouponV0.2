@@ -6,7 +6,7 @@ import java.util.Collection;
 
 /**
  * 
- * @author Liron
+ * @author Majd
  *  this Class creates a Company POJO bean
  */
 public class Company {
